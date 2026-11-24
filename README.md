@@ -6,7 +6,7 @@ A curated list of awesome MySQL free and open-source software, libraries, and re
 
 ## Fork Status and Curated Workflow
 
-Upstream commit `6adf53e` replaced the `gh-pages` list with a stub pointing to `https://github.com/shlomi-noach/awesome-mysql`, while preserving the full `19`-category list at commit `ae5cf0a` in Git history.
+Upstream commit `6adf53e` replaced the `gh-pages` list with a stub pointing to `https://github.com/shlomi-noach/awesome-mysql`, while preserving the full `21`-category list (`17` software + `4` resource sections) at commit `ae5cf0a` in Git history.
 
 ```mermaid
 flowchart LR

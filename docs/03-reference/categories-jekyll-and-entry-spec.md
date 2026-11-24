@@ -1,6 +1,6 @@
 # Categories, Jekyll, and Entry Specification Reference
 
-Exact inventory of `gh-pages` site files, contribution formatting rules, and the `19` awesome-list categories from commit `ae5cf0a`.
+Exact inventory of `gh-pages` site files, contribution formatting rules, and the `21` awesome-list categories (`17` software + `4` resources) from commit `ae5cf0a`.
 
 ## Repository & Jekyll Files (`gh-pages`)
 
@@ -29,5 +29,5 @@ Exact inventory of `gh-pages` site files, contribution formatting rules, and the
 
 | Group | Categories |
 | :--- | :--- |
-| **Software** (`15`) | `Analysis`, `Backup`, `Benchmarking`, `ChatOps`, `Configuration`, `Connectors`, `Deployment`, `Development`, `GUI`, `HA`, `Proxy`, `Replication`, `Schema`, `Security`, `Server`, `Sharding`, `Toolkits` (`17` subsections) |
+| **Software** (`17`) | `Analysis`, `Backup`, `Benchmarking`, `ChatOps`, `Configuration`, `Connectors`, `Deployment`, `Development`, `GUI`, `HA`, `Proxy`, `Replication`, `Schema`, `Security`, `Server`, `Sharding`, `Toolkits` |
 | **Resources** (`4`) | `Conferences`, `e-books`, `Media`, `Newsletters` |

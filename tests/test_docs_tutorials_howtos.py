@@ -129,6 +129,7 @@ class TestJekyllEntriesAndSnippets(unittest.TestCase):
                 )
                 self.assertIn("## Analysis", show.stdout)
                 self.assertIn("## Toolkits", show.stdout)
+                self.assertEqual(len(re.findall(r"^## ", show.stdout, re.M)), 21)
 
     def test_documented_sql_and_bash_fences(self) -> None:
         bash_bin = shutil.which("bash") if os.name == "posix" else None
